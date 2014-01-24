@@ -138,7 +138,6 @@ public class SearchableItemListPanel extends JPanel {
 		private Vector<ColumnInfo<?>> displayableColumns = new Vector<ColumnInfo<?>>() ;
 		private List<TOColumnFilter<?>> filters = new ArrayList<TOColumnFilter<?>>() ; 
 		
-		@SuppressWarnings("unchecked")
 		public TOSearcheableJTableModel(Class<? extends TransferableObject> sourceTO) throws SQLException	{
 			this.sourceTO = sourceTO ;
 			refresh();
@@ -150,6 +149,7 @@ public class SearchableItemListPanel extends JPanel {
 			this.fireTableStructureChanged() ;			
 		}
 		
+		@SuppressWarnings("unused")
 		public Vector<ColumnInfo<?>> getDisplayableColumns() {
 			return displayableColumns ;
 		}

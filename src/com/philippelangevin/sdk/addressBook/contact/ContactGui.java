@@ -39,7 +39,7 @@ public class ContactGui extends JDialog implements GuiIF {
 	private JPanel buttonsPanel = null ;
 	
 	private JTextField contactName = null ;
-	private JComboBox contactTypeComboBox = null ;
+	private JComboBox<ContactTypeTO> contactTypeComboBox = null ;
 	private JButton applyButton = null ;
 	private JButton cancelButton = null ;
 
@@ -122,9 +122,9 @@ public class ContactGui extends JDialog implements GuiIF {
 	}
 	
 	
-	public JComboBox getContactTypeComboBox()	{
+	public JComboBox<ContactTypeTO> getContactTypeComboBox()	{
 		if (contactTypeComboBox == null){
-			contactTypeComboBox = new JComboBox(ContactController.getContactTypes().toArray(new ContactTypeTO[0])) ;
+			contactTypeComboBox = new JComboBox<ContactTypeTO>(ContactController.getContactTypes().toArray(new ContactTypeTO[0])) ;
 		}
 		
 		return contactTypeComboBox ;

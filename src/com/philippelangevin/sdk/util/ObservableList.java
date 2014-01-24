@@ -22,7 +22,7 @@ import com.philippelangevin.sdk.dataStructure.ObjectUtil;
  * @author pcharette
  * @date 2011-04-06
  */
-public class ObservableList<E> extends ArrayList<E> implements ListModel, PropertyChangeListener {
+public class ObservableList<E> extends ArrayList<E> implements ListModel<E>, PropertyChangeListener {
 
 	private static final long serialVersionUID = 5929114207290192466L;
 

@@ -31,7 +31,7 @@ public abstract class EditorIF extends JDialog {
 	protected String currentInfoType ;
 	
 	protected JPanel mainPanel = null ;
-	private JComboBox categoryComboBox = null ;
+	private JComboBox<ContactCategoryTO> categoryComboBox = null ;
 	private JButton okButton = null ;
 	private JButton cancelButton = null ;
 	
@@ -86,9 +86,9 @@ public abstract class EditorIF extends JDialog {
 		return categoryPanel ;
 	}
 	
-	private JComboBox getCategoryComboBox()	{
+	private JComboBox<ContactCategoryTO> getCategoryComboBox()	{
 		if (categoryComboBox == null){
-			categoryComboBox = new JComboBox(ContactController.getContactCategories().toArray(new ContactCategoryTO[0])) ;
+			categoryComboBox = new JComboBox<ContactCategoryTO>(ContactController.getContactCategories().toArray(new ContactCategoryTO[0])) ;
 		}
 		
 		return categoryComboBox ;
