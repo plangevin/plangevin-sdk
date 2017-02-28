@@ -5,7 +5,6 @@ package com.philippelangevin.sdk.uiUtil.columnModel;
 
 import java.util.HashMap;
 import java.util.Map;
-import java.util.Map.Entry;
 
 /**
  * @author pcharette
