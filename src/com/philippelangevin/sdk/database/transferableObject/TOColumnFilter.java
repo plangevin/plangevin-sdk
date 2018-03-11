@@ -16,14 +16,14 @@ import com.philippelangevin.sdk.database.dbAccess.DatabaseAccessObjectIF.QueryBu
  * {@link AbstractDatabaseDAO#selectTOList(Class, java.util.List)} must manage those type arrays
  * <p> Company : C-Tec </p>
  *
- * @author Philippe Langevin	plangevin@ctecworld.com
+ * @author Philippe Langevin	philippelangevin@ctecworld.com
  * Copyright: (c) 2011, C-Tec Inc. - All rights reserved
  */
 /*
  * History
  * ------------------------------------------------
  * Date         Name        BT      Description
- * 2011-04-18   plangevin
+ * 2011-04-18   philippelangevin
  */
 public class TOColumnFilter<T> extends Triple<TransferableObjectInfo<T>, QueryMathOperatorStructIF, Object> {
 	public TOColumnFilter(ColumnInfo<T> column, QueryMathOperatorStructIF operator, Object value) {
