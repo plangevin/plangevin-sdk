@@ -36,7 +36,7 @@ public class StringUtil {
 	private static final List<Character> SMALL_ROMAN_NUMERALS = Arrays.asList('I', 'V', 'X');
 	private static final Collator COLLATOR = Collator.getInstance();
 	static {
-		//we want é, è, ê and e to be equals
+		//we want ï¿½, ï¿½, ï¿½ and e to be equals
 		COLLATOR.setStrength(Collator.PRIMARY);
 	}
 	
@@ -142,7 +142,7 @@ public class StringUtil {
 	 * 
 	 * @param chaine1
 	 * @param chaine2
-	 * @return Le nb de différence entre les 2 chaines (0 pour des chaines parfaitement identiques)
+	 * @return Le nb de diffï¿½rence entre les 2 chaines (0 pour des chaines parfaitement identiques)
 	 */
 	public static int getLevenshteinDistance(String chaine1, String chaine2) {
 		// ****************************
@@ -216,7 +216,7 @@ public class StringUtil {
 	
 	/**
 	 * Removes the accents from a String.
-	 * Example: StringUtil.unAccent("HÉhé Çë") will return "Hehe Ce".
+	 * Example: StringUtil.unAccent("Hï¿½hï¿½ ï¿½ï¿½") will return "Hehe Ce".
 	 * 
 	 * @param o
 	 * @return

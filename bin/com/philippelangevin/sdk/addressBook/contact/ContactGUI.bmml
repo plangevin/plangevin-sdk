@@ -31,7 +31,7 @@
     </control>
     <control controlID="10" controlTypeID="com.balsamiq.mockups::List" x="457" y="482" w="228" h="77" measuredW="100" measuredH="126" zOrder="19" locked="false" isInGroup="-1">
       <controlProperties>
-        <text>philippe.langevin@gmail.com%20-%20Home%0Aplangevin@escadron806.org%20-%20Work%0A*%20plangevin@ctecworld.com%20-%20Work%0Acmdt@escadron806.org%20-%20Work</text>
+        <text>philippe.langevin@gmail.com%20-%20Home%0Aphilippelangevin@escadron806.org%20-%20Work%0A*%20philippelangevin@ctecworld.com%20-%20Work%0Acmdt@escadron806.org%20-%20Work</text>
         <verticalScrollbar>true</verticalScrollbar>
       </controlProperties>
     </control>

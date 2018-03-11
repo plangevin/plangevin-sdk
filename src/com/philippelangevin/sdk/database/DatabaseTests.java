@@ -43,7 +43,7 @@ public class DatabaseTests {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		MySQLDatabaseConnection conn = (MySQLDatabaseConnection) DatabaseConnectionFactory.buildConnection(DatabaseDefinition.INVENTAIRE806, "plangevin", "45387z") ;
+		MySQLDatabaseConnection conn = (MySQLDatabaseConnection) DatabaseConnectionFactory.buildConnection(DatabaseDefinition.INVENTAIRE806, "philippelangevin", "45387z") ;
 		try {
 			conn.openConnection() ;
 			

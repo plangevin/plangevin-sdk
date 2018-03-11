@@ -239,7 +239,7 @@ public class AddressBookDAO extends AbstractDatabaseDAO {
 
 		emailTO.setContactId(1) ;
 		emailTO.setId(itemId++) ;
-		emailTO.setEmail("plangevin@ctecworld.com") ;
+		emailTO.setEmail("philippelangevin@ctecworld.com") ;
 		emailTO.setContactCategory(3) ;
 		insert(emailTO) ;
 		
