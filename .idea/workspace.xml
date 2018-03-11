@@ -2,86 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8c07d47a-0202-4167-8628-011923e54dca" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/bin/com/philippelangevin/sdk/addressBook/contact/ContactGUI.bmml" afterPath="$PROJECT_DIR$/bin/com/philippelangevin/sdk/addressBook/contact/ContactGUI.bmml" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/messages_en.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/messages_fr.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/AddressBookDAO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/contact/ContactController.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/contact/ContactEventRouter.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/contact/ContactGUI.bmml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/contact/ContactGui.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/contact/infoType/ContactInfoTypePanel.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/contact/infoType/ContactInfoTypeTableModel.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/contact/infoType/editors/AddressGui.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/contact/infoType/editors/EditorIF.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/contact/infoType/editors/EmailGui.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/contact/infoType/editors/PhoneGui.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/contact/messages_en.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/contact/messages_fr.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/contactList/ContactListController.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/contactList/ContactListEventRouter.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/contactList/ContactListGui.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/tos/AddressTO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/tos/AddressTOStructure.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/tos/ContactCategoryTO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/tos/ContactCategoryTOStructure.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/tos/ContactInfoTOIF.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/tos/ContactInfoTypeTO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/tos/ContactInfoTypeTOStructure.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/tos/ContactTO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/tos/ContactTOStructure.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/tos/ContactTypeTO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/tos/ContactTypeTOStructure.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/tos/EmailTO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/tos/EmailTOStructure.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/tos/PhoneTO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/tos/PhoneTOStructure.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/tos/PreferedContactInfoTO.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/tos/PreferedContactInfoTOStructure.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/tos/Tables.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/tos/messages_en.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/addressBook/tos/messages_fr.properties" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/dataStructure/CollectionUtil.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/dataStructure/CopyUtil.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/dataStructure/HashCodeUtil.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/dataStructure/Money.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/dataStructure/ObjectUtil.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/dataStructure/Tuple.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/database/DatabaseTests.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/uiUtil/CustomJTable.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/uiUtil/DialogReturnType.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/uiUtil/DialogRunningModes.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/uiUtil/SearchableItemListPanel.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/uiUtil/columnModel/ColumnModelIF.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/uiUtil/columnModel/ColumnModelMap.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/uiUtil/columnModel/ColumnModelProvider.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/uiUtil/formatter/DefaultFormatterFactoryExt.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/uiUtil/formatter/DurationFormatter.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/uiUtil/formatter/FormatterWithEmpty.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/uiUtil/formatter/LocalDateFormatter.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/uiUtil/formatter/MaskFormatterFactory.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/uiUtil/formatter/NumberFormatterWithEmpty.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/uiUtil/formatter/TimeFormatter.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/uiUtil/interfaces/ControllerIF.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/uiUtil/interfaces/EventRouterIF.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/uiUtil/interfaces/GuiIF.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/util/ClassHacker.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/util/ImageUtil.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/util/NumberUtil.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/util/ObjectNameContainer.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/util/ObservableList.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/util/ObservableListChangeEvent.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/util/ObservableListListener.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/util/ObservableMap.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/util/ObservableMapChangeEvent.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/util/ObservableMapListener.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/util/StringParameterUtil.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/util/StringUtil.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/util/WindowsRegistryUtil.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/xml/ConfigFileManagementUtility.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/xml/XMLHelper.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/xml/XMLResultSet.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/com/philippelangevin/sdk/xml/XPathRequester.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -180,8 +101,8 @@
       <file leaf-file-name="AbstractDatabaseDAO.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/philippelangevin/sdk/database/dbAccess/AbstractDatabaseDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="218">
-              <caret line="343" column="35" lean-forward="true" selection-start-line="343" selection-start-column="35" selection-end-line="343" selection-end-column="35" />
+            <state relative-caret-position="176">
+              <caret line="341" column="19" lean-forward="false" selection-start-line="341" selection-start-column="19" selection-end-line="341" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -228,7 +149,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
@@ -312,20 +233,12 @@
               <item name="plangevin-sdk" type="b2602c69:ProjectViewProjectNode" />
               <item name="plangevin-sdk" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="plangevin-sdk" type="b2602c69:ProjectViewProjectNode" />
-              <item name="plangevin-sdk" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="philippelangevin" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="plangevin-sdk" type="b2602c69:ProjectViewProjectNode" />
               <item name="plangevin-sdk" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="philippelangevin" type="462c0819:PsiDirectoryNode" />
               <item name="sdk" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -333,7 +246,6 @@
               <item name="plangevin-sdk" type="b2602c69:ProjectViewProjectNode" />
               <item name="plangevin-sdk" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="philippelangevin" type="462c0819:PsiDirectoryNode" />
               <item name="sdk" type="462c0819:PsiDirectoryNode" />
               <item name="dataStructure" type="462c0819:PsiDirectoryNode" />
@@ -349,7 +261,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -473,12 +385,21 @@
     <option name="localTasksCounter" value="2" />
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -486,8 +407,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295325" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973147" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -597,8 +518,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/philippelangevin/sdk/database/dbAccess/AbstractDatabaseDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="218">
-          <caret line="343" column="35" lean-forward="true" selection-start-line="343" selection-start-column="35" selection-end-line="343" selection-end-column="35" />
+        <state relative-caret-position="176">
+          <caret line="341" column="19" lean-forward="false" selection-start-line="341" selection-start-column="19" selection-end-line="341" selection-end-column="19" />
           <folding />
         </state>
       </provider>
