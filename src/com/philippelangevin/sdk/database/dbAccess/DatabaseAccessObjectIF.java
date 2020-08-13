@@ -68,9 +68,9 @@ public interface DatabaseAccessObjectIF {
 	
 		
 	/**
-	 * Insère le TransferableObject envoyé en paramètre dans la table appropriée.
-	 * Si le TO contient des colonnes "autonumbers", elles seront ajustées via set().
-	 * Si le TO contient des valeurs par défaut, elles seront ajustées via set().
+	 * InsÃ¨re le TransferableObject envoyÃ© en paramÃ¨tre dans la table appropriÃ©e.
+	 * Si le TO contient des colonnes "autonumbers", elles seront ajustÃ©es via set().
+	 * Si le TO contient des valeurs par dÃ©faut, elles seront ajustÃ©es via set().
 	 * @param TransferableObject
 	 * @throws SQLException est lancÃ© si il y a eu une erreur a l'insersion.
 	 */

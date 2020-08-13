@@ -69,7 +69,7 @@ public class SQLServerDatabaseConnection extends DatabaseConnection {
 	}
 	
 	/**
-	 * Permet de fermer la connexion à la base de données
+	 * Permet de fermer la connexion Ã  la base de donnÃ©es
 	 */
 	@Override
 	public void closeConnection() {
